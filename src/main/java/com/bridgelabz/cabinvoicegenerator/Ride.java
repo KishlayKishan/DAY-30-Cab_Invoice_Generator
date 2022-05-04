@@ -1,6 +1,7 @@
 package com.bridgelabz.cabinvoicegenerator;
 
 public class Ride {
+
 	private double distance;
 	private int time;
 
